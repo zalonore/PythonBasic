@@ -19,7 +19,7 @@ def sumValAllList(list,val):
   for i in range(len(list)):
     list[i] += val
 
-#dado un tamaño crear una lista con valores de un rango
+#dado un tamaño crear una lista con valores de un range
 def createList(size, inf, sup):
   list = []
   for i in range(size):

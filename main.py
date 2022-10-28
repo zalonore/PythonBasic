@@ -7,6 +7,7 @@ def main():
 
   list = tools.createList(size,inf,sup)
   print(list)
+  
 
 
 main()
