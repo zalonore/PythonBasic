@@ -6,7 +6,7 @@ def main():
   sup = eval(input("el rango superior de los valores de la lista: "))
 
   list = tools.createList(size,inf,sup)
-  print(list)
+  print("la lista ha queado así: \n",list)
   
 
 
