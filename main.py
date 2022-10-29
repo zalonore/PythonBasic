@@ -8,7 +8,7 @@ def main():
   list = tools.createList(tam, inf, sup)
   print("la lista ha queado así: ", list)
   print("la suma de los elementos da: ", tools.sumList(list))
-  input("digite ENTER para terminar ")
+  input("digite ENTER para terminar el programa ")
 
 
 main()
