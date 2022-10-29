@@ -6,8 +6,8 @@ def main():
   sup = eval(input("el rango superior de los valores de la lista: "))
 
   list = tools.createList(tam, inf, sup)
-  print("la lista ha queado así: \n", list)
-  print("la suma de los elementos da: \n", tools.sumList(list))
+  print("la lista ha queado así: ", list)
+  print("la suma de los elementos da: ", tools.sumList(list))
   input("digite ENTER para terminar ")
 
 
