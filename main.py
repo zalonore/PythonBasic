@@ -7,7 +7,7 @@ def main():
 
   list = tools.createList(size,inf,sup)
   print("la lista ha queado así: \n",list)
-  input("digite ENTER para terminar ")
+  input("digite ENTE para terminar ")
 
   
 
